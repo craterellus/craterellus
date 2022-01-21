@@ -1,20 +1,20 @@
 
-# Who am I?
+# Who am I? 🤷‍♂️
 *Good question. I think my name is Sarah. Let's operate under that assumption.*
 
-# About Sarah
+# About Sarah 
 *Sarah is a human probably. She often engages in human activities, such as having ten toes and experiencing existential dread.*
 
 # Okay, but does Sarah have hobbies and interests?
 *Yes, they are as follows:*
 
-- Painting
-- Mushroom Foraging
-- Cooking
-- Appreciating Trees
-- Camping
-- Photography
-- Video Games
+- Painting 🖌️
+- Mushroom Foraging 🍄
+- Cooking 🥞
+- Appreciating Trees 🌲
+- Camping ⛺
+- Photography 📷
+- Video Games 🎮
 
 # Additional Sarah fun facts
 *Fifty percent fun, fifty percent fact.*
