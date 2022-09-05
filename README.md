@@ -1,10 +1,16 @@
 # Welcome! ☺️
 Hello there! My name is Sarah Lopez. I'm a student who is in the process of learning Web Development. So far, I know some **HTML** and **CSS**, and I'm currently working on **Javascript.** I also started working on the Odin Project not too long ago.
 
+![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterellus&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craterellus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## So what's your deal? 🤷‍♂️
 *Me?* Well, I covered some of the broad strokes, but here are some other fun facts. I am originally from Brooklyn, but I've been living in Central Jersey for the last couple of years. I am also an artist. I have worked as an art teacher, a mural painter, and a portraitist.
 
 I am very interested in the design aspect of Web Development. I want to make things-- not just pretty things, but things that people can use and interact with.
+
+## Skills
 
 ## Hobbies and Interests
 
