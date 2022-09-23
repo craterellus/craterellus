@@ -10,6 +10,12 @@ Hello there! My name is Sarah Lopez. I'm a student who is in the process of lear
 
 I am very interested in the design aspect of Web Development. I want to make things-- not just pretty things, but things that people can use and interact with.
 
+Speaking of design, I'm currently working on improving my typography skills. Did you know that you can have a typographic superpower? It's true. Mine is:
+
+![luxury-superpower-xs](https://user-images.githubusercontent.com/98069492/191988697-f6f4e3a8-0818-47f8-983c-20b842ac3ba5.png)
+
+You can play the game [here](https://game.fonts.adobe.com/) to find your typographic superpower!
+
 ## Skills
 
 ## Hobbies and Interests
